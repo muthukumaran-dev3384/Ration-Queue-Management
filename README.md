@@ -1,1 +1,20 @@
-# Ration-Queue-Management 
+*** User Details ***
+
+ User Name : user1
+ PassWord  : 1234
+ 
+ User Name : anna
+ PassWord  : 1234
+
+
+***Staff Details ***
+
+ Staff Name : staff1
+ pasword    :1234
+
+ Staff Name :gopi
+ pasword    :1234
+
+ *** Admin Details***
+ Admin    : admin
+ password : admin123
